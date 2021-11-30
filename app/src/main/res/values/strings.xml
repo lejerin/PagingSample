@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Paging3</string>
+    <string name="data_api_key">서비스키를 입력하세요.</string>
+    <string name="transition_name">festival</string>
+</resources>
